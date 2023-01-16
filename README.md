@@ -1,3 +1,5 @@
+# 试图将canvas操作改成WebGL的，还没开发完
+
 # SVGAPlayer-Web-Lite &middot; [![npm version](https://img.shields.io/npm/v/svga.svg?style=flat)](https://www.npmjs.com/package/svga) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://reactjs.org/docs/how-to-contribute.html#your-first-pull-request)
 
 这是一个 SVGA 在移动端 Web 上的播放器，它的目标是 **更轻量**、**更高效**
