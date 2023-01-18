@@ -7,7 +7,7 @@ import {
   PlayerConfig
 } from '../types'
 import { Animator } from './animator'
-import render from './render'
+import render from './webgl-render'
 
 const inBrowser = typeof window !== 'undefined'
 const hasIntersectionObserver = inBrowser && 'IntersectionObserver' in window
